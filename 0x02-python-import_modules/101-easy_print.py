@@ -1,1 +1,2 @@
-__import__('os').system('echo #pythoniscool')
+#!/usr/bin/python3
+import easy_print_101
